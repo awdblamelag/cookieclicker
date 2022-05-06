@@ -1,0 +1,2 @@
+# cookieclicker
+save code
